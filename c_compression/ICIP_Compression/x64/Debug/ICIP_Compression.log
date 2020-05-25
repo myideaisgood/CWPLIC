@@ -1,0 +1,16 @@
+﻿  arithmetic_codec.cpp
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\arithmetic_codec.cpp(805): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\arithmetic_codec.cpp(806): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  decode.cpp
+  encode.cpp
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(53): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(70): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(74): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(78): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(375): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\github\channel-wise-progressive-learning-for-lossless-image-compression\c_compression\icip_compression\encode.cpp(411): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  ppm_io.cpp
+  utils.cpp
+  코드를 생성하고 있습니다...
+  ICIP_Compression.vcxproj -> D:\Github\Channel-wise-progressive-learning-for-lossless-image-compression\c_compression\x64\Debug\ICIP_Compression.exe

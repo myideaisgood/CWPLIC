@@ -95,7 +95,7 @@ If you use the work released here for your research, please cite this paper.
 ```
 @inproceedings{rhee2020cwplic,
   title={Channel-wise progressive learning for lossless image compression},
-  author={Rhee, Hochang and Jang, Yeong Il, and Kim, Seyun and Cho, Nam Ik},
+  author={Rhee, Hochang and Jang Yeong Il, and Kim, Seyun and Cho, Nam Ik},
   booktitle={2020 IEEE International Conference on Image Processing (ICIP)},
   year={2020}
 }
